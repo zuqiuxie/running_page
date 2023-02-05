@@ -26,7 +26,7 @@ env:
   TITLE: wangbin Running
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 1km Runs # also here
-  GITHUB_NAME: zuqiuxie
+  GITHUB_NAME: wangbin
   GITHUB_EMAIL: dz303241@163.com
 
 jobs:
