@@ -12,7 +12,7 @@ module.exports = {
       },
       {
         name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        url: 'https://wangbin.org',
       },
     ],
   },
