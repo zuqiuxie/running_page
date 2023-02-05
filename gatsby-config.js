@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Running 彬少',
+    siteTitle: 'Running 彬',
     siteUrl: 'https://run.wangbin.org',
     logo: '\public\icons\icon-192x192.png',
     description: 'Personal site and blog',
