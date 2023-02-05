@@ -2,8 +2,8 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running 彬少',
-    siteUrl: 'https://wangbin.org/running',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'https://run.wangbin.org',
+    logo: '\public\icons\icon-192x192.png',
     description: 'Personal site and blog',
     navLinks: [
       {
