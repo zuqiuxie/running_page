@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: '奔跑吧，彬',
     siteUrl: 'https://run.wangbin.org',
-    logo: 'https://github.com/zuqiuxie/running_page/public/icons/icon-192x192.png',
+    logo: 'https://www.ai1234.com/uploadimg/ico/2019/0305/1551753756964057.png',
     description: 'Personal site and blog',
     navLinks: [
       {
