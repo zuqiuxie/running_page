@@ -7,17 +7,8 @@ module.exports = {
     description: 'Personal site and blog',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://wangbin.org',
-      },
-      {
         name: 'About',
         url: 'https://wangbin.org',
-      },
-      {
-        name: 'tongji',
-        url: '<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-        <script>LA.init({id:"JxwdtsJM2Wd0WgeK",ck:"JxwdtsJM2Wd0WgeK"})</script>',
       },
     ],
   },
