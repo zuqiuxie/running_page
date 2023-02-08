@@ -14,6 +14,10 @@ module.exports = {
         name: 'About',
         url: 'https://wangbin.org',
       },
+      {
+        name: 'tongji',
+        url: '<a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JxwdtsJM2Wd0WgeK"><img src="https://sdk.51.la/icon/1-1.png"></a>',
+      },
     ],
   },
   plugins: [
