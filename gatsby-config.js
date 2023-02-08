@@ -99,6 +99,10 @@ module.exports = {
         ],
         skipWaiting: true,
         clientsClaim: true,
+
+        <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"JxwdtsJM2Wd0WgeK",ck:"JxwdtsJM2Wd0WgeK"})</script>
+        
       },
     },
   ],
