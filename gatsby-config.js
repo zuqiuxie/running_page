@@ -102,6 +102,8 @@ module.exports = {
 
         <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
 <script>LA.init({id:"JxwdtsJM2Wd0WgeK",ck:"JxwdtsJM2Wd0WgeK"})</script>
+
+<a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JxwdtsJM2Wd0WgeK"><img src="https://sdk.51.la/icon/1-1.png"></a>
         
       },
     },
